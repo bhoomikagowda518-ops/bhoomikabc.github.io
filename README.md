@@ -17,7 +17,7 @@ I'm a Computer Science Engineering student interested in Cybersecurity and Web D
 - Project showcase section
 
 ## 🔗 Live Demo
-(Will add soon)
+https://bhoomikagowda518-ops.github.io/bhoomikabc.github.io/
 
 ## 📬 Contact
 - GitHub: https://github.com/bhoomikagowda518-ops
